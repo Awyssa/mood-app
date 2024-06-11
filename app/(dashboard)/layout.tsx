@@ -1,4 +1,4 @@
-import { UserButton } from "@clerk/nextjs/app-beta";
+import { UserButton } from "@clerk/nextjs";
 
 const DashboardLayout = ({ children }: any) => {
   return (
